@@ -7,7 +7,6 @@ class Node
 end
 
 # Setting up the tree
-
 root = Node.new('a')
 root.left = Node.new('b')
 root.right = Node.new('c')
